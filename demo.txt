@@ -10,3 +10,5 @@ Git Commands
     git add filename
 4. To commit files on repository
     git commit -m "initilal commit"
+5. To push git repository in remote origin
+   git push -u origin main
