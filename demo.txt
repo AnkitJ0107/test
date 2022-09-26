@@ -10,3 +10,4 @@ Git Commands
     git add filename
 4. To commit files on repository
     git commit -m "initilal commit"
+data lost
